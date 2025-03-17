@@ -37,14 +37,13 @@ This project implements a password reset flow that includes email verification a
 
     ```bash 
     npm install express
-    npm install bcrypt
+    npm install mongoose
     npm install nodemon --save-dev
-    npm install cookie-parser
     npm install dotenv
     npm install jsonwebtoken 
-    npm install mongoose
-    npm install body-parser
+    npm install bcrypt
     npm install nodemailer
+    npm install cors
     ```
 
 3. Setting up environment variables .
